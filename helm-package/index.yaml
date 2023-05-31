@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  my-first-chart:
+  - apiVersion: v2
+    created: "2023-05-31T12:49:58.061813949Z"
+    description: A Helm chart for Kubernetes
+    digest: 42694c386ecc0dbb57d5bedcd9084f6ad591a2db06dfe4de1a24961ecfacc638
+    name: my-first-chart
+    type: application
+    urls:
+    - my-first-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-05-31T12:49:58.061161023Z"
